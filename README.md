@@ -35,6 +35,13 @@ data/wdbc_clean.csv
 
 https://github.com/lordtyrion810/S2-25_AIMLCZG565_Assignment_2
 
+
+## Live Streamlit App Link
+
+```text
+https://s2-25aimlczg565assignment2-wucb3iwb9pil3iaxfybscj.streamlit.app/
+```
+
 ## d. Models used
 
 1. Logistic Regression
